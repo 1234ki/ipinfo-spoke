@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="ip_adress" label="IP adress" language="en" table="var__m_sys_hub_action_input_7836a04fdb713300cd9b2706ca9619aa">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>ip_adress</element>
+            <help/>
+            <hint>Find the physical location of this public IP address</hint>
+            <label>IP adress</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_input_7836a04fdb713300cd9b2706ca9619aa</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-07 01:52:13</sys_created_on>
+            <sys_id>48d07807dbb13300cd9b2706ca9619f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>IP adress</sys_name>
+            <sys_package display_value="IpInfo Spoke" source="x_348753_ipinfo_sp">3785e4cbdb713300cd9b2706ca96198c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IpInfo Spoke">3785e4cbdb713300cd9b2706ca96198c</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_action_input_7836a04fdb713300cd9b2706ca9619aa_ip_adress_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-07 01:52:13</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
